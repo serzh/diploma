@@ -220,4 +220,5 @@ P=c(A)q
 	<img src='result/result2.png' />
 	<img src='result/result3.png' />
 	<img src='result/result4.png' />
-	Рис.1. Робота детктора з відеозаписами з димом. 
+	
+Рис.1. Робота детктора з відеозаписами з димом. 
